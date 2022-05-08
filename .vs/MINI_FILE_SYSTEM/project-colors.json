@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82072d9a-8844-4cce-b5e1-fc0f7441041e": {
+      "ProjectGuid": "82072d9a-8844-4cce-b5e1-fc0f7441041e",
+      "DisplayName": "MINI_FILE_SYSTEM",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
